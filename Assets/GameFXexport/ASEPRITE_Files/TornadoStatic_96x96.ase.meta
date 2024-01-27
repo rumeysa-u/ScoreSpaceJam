@@ -1,0 +1,2628 @@
+fileFormatVersion: 2
+guid: 83f9c413dc83a7148a093349e584dab2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: TornadoStatic_96x96_Frame_0
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 262460616ae0a134388a225c38e1e334
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1}
+  - name: TornadoStatic_96x96_Frame_1
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 133
+      height: 133
+    spriteID: b82da8367b6625b4d858e4bafb08464f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 142}
+  - name: TornadoStatic_96x96_Frame_2
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 5f4148791efc08545b92c6ea5ce63515
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 283}
+  - name: TornadoStatic_96x96_Frame_3
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 427
+      width: 133
+      height: 133
+    spriteID: dbd57b3097827c540b3509112bd5d222
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 424}
+  - name: TornadoStatic_96x96_Frame_4
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 568
+      width: 133
+      height: 133
+    spriteID: aa3f223ad52661541a33b8cc27ac5899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 565}
+  - name: TornadoStatic_96x96_Frame_5
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 4ec6efc1b2b5a634cb1707b3bd7418d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 706}
+  - name: TornadoStatic_96x96_Frame_6
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 28586a7b5e442c249ab0cadad75bfd7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 847}
+  - name: TornadoStatic_96x96_Frame_7
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 991
+      width: 133
+      height: 133
+    spriteID: e2562863296608243be769c0bab39a9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 988}
+  - name: TornadoStatic_96x96_Frame_8
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: 6df65af55083c6e4daadf7efdcc55259
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1129}
+  - name: TornadoStatic_96x96_Frame_9
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 8c4a9ef192748704fac16d3139487701
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1270}
+  - name: TornadoStatic_96x96_Frame_10
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: e95681076e3b7ae419a7fa3b0aa5293e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1411}
+  - name: TornadoStatic_96x96_Frame_11
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: 37bf065d6c5e57d45a8c6f04c388584b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1552}
+  - name: TornadoStatic_96x96_Frame_12
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: ef1f759e9896783438429042bde48c66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1693}
+  - name: TornadoStatic_96x96_Frame_13
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: ae40c86e524b5ba449b0e95612276e38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1834}
+  - name: TornadoStatic_96x96_Frame_14
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 133
+      height: 133
+    spriteID: e814fb08d32176544be504a6d1ecd164
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1}
+  - name: TornadoStatic_96x96_Frame_15
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 09bedbc37d594f64ab7da06cb4919070
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 142}
+  - name: TornadoStatic_96x96_Frame_16
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 2602326f1a7b4204d975418a54c9d790
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 283}
+  - name: TornadoStatic_96x96_Frame_17
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 2bcd7f22881f2804ebf727047f94c135
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 424}
+  - name: TornadoStatic_96x96_Frame_18
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 56c05300901ed4743a74feadeaac45c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 565}
+  - name: TornadoStatic_96x96_Frame_19
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 4f6d4a389df11d149bf0cda5ca5aa1fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 706}
+  - name: TornadoStatic_96x96_Frame_20
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 39b4f291107c8d040be21c2d813d830c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 847}
+  - name: TornadoStatic_96x96_Frame_21
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 3d4063779d3720243abb014788a44d5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 988}
+  - name: TornadoStatic_96x96_Frame_22
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: f240cfb91fa62f049bad28d20d682719
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1129}
+  - name: TornadoStatic_96x96_Frame_23
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: b11046b91f90e2c42ad5fd0d03917edf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1270}
+  - name: TornadoStatic_96x96_Frame_24
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: 504a14bd496d1a84c8009c68aa1e221e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1411}
+  - name: TornadoStatic_96x96_Frame_25
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: 9e5822785d2b4c24baa6ee23a2588af7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1552}
+  - name: TornadoStatic_96x96_Frame_26
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: 6c381b9a6016a874a9fa9fb8bca099b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1693}
+  - name: TornadoStatic_96x96_Frame_27
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: b8fe0e4697bc87144b1e4b730b5d022d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1834}
+  - name: TornadoStatic_96x96_Frame_28
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 4
+      width: 133
+      height: 133
+    spriteID: e19adf67f12a2ec4b947ab793725d8dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1}
+  - name: TornadoStatic_96x96_Frame_29
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 29d6463f656a75247b1a6af7b23b5cf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 142}
+  - name: TornadoStatic_96x96_Frame_30
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 286
+      width: 133
+      height: 133
+    spriteID: d4917358f8751c340b14e456ca5ecc85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 283}
+  - name: TornadoStatic_96x96_Frame_31
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 1e7d7227ed6f3ee4bbcf5f9f0d7bafad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 424}
+  - name: TornadoStatic_96x96_Frame_32
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 085140797366ce648916baa8bbd9f28b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 565}
+  - name: TornadoStatic_96x96_Frame_33
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 709
+      width: 133
+      height: 133
+    spriteID: e2471968110a02e49999a4b09f3d661d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 706}
+  - name: TornadoStatic_96x96_Frame_34
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 3c6f3891e4a045c429565985f5026a99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 847}
+  - name: TornadoStatic_96x96_Frame_35
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 991
+      width: 133
+      height: 133
+    spriteID: f6285dcfb882b6b4b8d3d90dab6795bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 988}
+  - name: TornadoStatic_96x96_Frame_36
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: abe3b3978e62f9c49a9a30356d4fab03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1129}
+  - name: TornadoStatic_96x96_Frame_37
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 0f2396e6f3d5cea4cbf55dbb409b7dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1270}
+  - name: TornadoStatic_96x96_Frame_38
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: 9c4c6bd96a3a26e43b1d7043a766b8eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1411}
+  - name: TornadoStatic_96x96_Frame_39
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: 53229ac754e9e314987f244cc597c733
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1552}
+  - name: TornadoStatic_96x96_Frame_40
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: c483c9eedcdbb1849aff62c65d7d89d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1693}
+  - name: TornadoStatic_96x96_Frame_41
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: 29f7251aa88d102479d0805030d32ca2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1834}
+  - name: TornadoStatic_96x96_Frame_42
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 64306d2fb58c26e46a447f7aeed42f49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1}
+  - name: TornadoStatic_96x96_Frame_43
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 145
+      width: 133
+      height: 133
+    spriteID: fbc0aeb14cefe9f4d917f13d0160c28d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 142}
+  - name: TornadoStatic_96x96_Frame_44
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 6cba4889639346f49803e6c1ba18d724
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 283}
+  - name: TornadoStatic_96x96_Frame_45
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 427
+      width: 133
+      height: 133
+    spriteID: f9e9f35c0ba9dd24291b0f6a23e3384a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 424}
+  - name: TornadoStatic_96x96_Frame_46
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 72e5a785d318dc34182203daa2e601f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 565}
+  - name: TornadoStatic_96x96_Frame_47
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 6f11e304dad932a44a513fdf7a717637
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 706}
+  - name: TornadoStatic_96x96_Frame_48
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 850
+      width: 133
+      height: 133
+    spriteID: e6ca1bea8d5a9d34ba5b07c8c9fbf5ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 847}
+  - name: TornadoStatic_96x96_Frame_49
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 6be6dd699f312d740a164374bff94f11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 988}
+  - name: TornadoStatic_96x96_Frame_50
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: 328a50fdaa52a33498b377a5fd1157c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1129}
+  - name: TornadoStatic_96x96_Frame_51
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 90ae0b71d615855449d3dffe9e9e0038
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1270}
+  - name: TornadoStatic_96x96_Frame_52
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: 3ffc456acd3420146a196e972763a740
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1411}
+  - name: TornadoStatic_96x96_Frame_53
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: fd636032048885e41905d7717d92dcd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1552}
+  - name: TornadoStatic_96x96_Frame_54
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: ea3f48e5b0b11764caf407a8c1332db4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1693}
+  - name: TornadoStatic_96x96_Frame_55
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: 3851380db2d21b64aabb18e422b75e8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1834}
+  - name: TornadoStatic_96x96_Frame_56
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 36f5fbdae85202c4dbcb26599fd91217
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1}
+  - name: TornadoStatic_96x96_Frame_57
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 460add14b5055ce42ab317c075ee55a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 142}
+  - name: TornadoStatic_96x96_Frame_58
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 286
+      width: 133
+      height: 133
+    spriteID: c77387cf09a1c3540a1ba8d18455c593
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 283}
+  - name: TornadoStatic_96x96_Frame_59
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 427
+      width: 133
+      height: 133
+    spriteID: fa4a07cbe23392940996c51f486d2fa4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 424}
+  - name: TornadoStatic_96x96_Frame_60
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 1ceb0fa00857d2949b31edde92f80779
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 565}
+  - name: TornadoStatic_96x96_Frame_61
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 709
+      width: 133
+      height: 133
+    spriteID: bad819776a35e4c42824a0c630598b29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 706}
+  - name: TornadoStatic_96x96_Frame_62
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 566edbf211024ea47988ae611e879c5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 847}
+  - name: TornadoStatic_96x96_Frame_63
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 72d9fe71b7ed2a34491f582fd3a3e44a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 988}
+  - name: TornadoStatic_96x96_Frame_64
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: bb8beefecb585e940917df3d496eb1b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1129}
+  - name: TornadoStatic_96x96_Frame_65
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 621f22e06962c67498cfd90a5b49b6de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1270}
+  - name: TornadoStatic_96x96_Frame_66
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: d86094baab3a5b9409dd3d3393c5c532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1411}
+  - name: TornadoStatic_96x96_Frame_67
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: db18a591477478b4282d7228b7437164
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1552}
+  - name: TornadoStatic_96x96_Frame_68
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: 0bf9398d5f8bbd248bcf4ada41522b68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1693}
+  - name: TornadoStatic_96x96_Frame_69
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: d84383bcc30e7624f8f7adc5446d74c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 1834}
+  - name: TornadoStatic_96x96_Frame_70
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 906947166776e2644b43e17aaf09b8f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1}
+  - name: TornadoStatic_96x96_Frame_71
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 5722fc7fc68bd674baaef07717158d96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 142}
+  - name: TornadoStatic_96x96_Frame_72
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 286
+      width: 133
+      height: 133
+    spriteID: e765ac5666be0f24c994153411d287d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 283}
+  - name: TornadoStatic_96x96_Frame_73
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 0b76d4aa31037ec4ab9f6aecbf7cc0f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 424}
+  - name: TornadoStatic_96x96_Frame_74
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 066f9312688d3784baa751adc40f3c37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 565}
+  - name: TornadoStatic_96x96_Frame_75
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 709
+      width: 133
+      height: 133
+    spriteID: ee81dfa5c6779d64f87f404f918c16a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 706}
+  - name: TornadoStatic_96x96_Frame_76
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 608220f646a2fd14eaee9dcf8032919f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 847}
+  - name: TornadoStatic_96x96_Frame_77
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 42616f2191c158e45bc2c9828025ca24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 988}
+  - name: TornadoStatic_96x96_Frame_78
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: 56bf12569233ae049a1aaa60ef11fefa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1129}
+  - name: TornadoStatic_96x96_Frame_79
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 6f800866d06ebb94491aed71f66496bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1270}
+  - name: TornadoStatic_96x96_Frame_80
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: 1af4cade013308d47bf8dad6cb538d14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1411}
+  - name: TornadoStatic_96x96_Frame_81
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: 6a83ab7ad5929ed49908e37b4a102f36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1552}
+  - name: TornadoStatic_96x96_Frame_82
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: be46bd2989710814eb385563ef90e7e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1693}
+  - name: TornadoStatic_96x96_Frame_83
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: fd608fd4a4f2d5149b7cf599312414ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 1834}
+  - name: TornadoStatic_96x96_Frame_84
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 9bf1c13104c79cd4182446cf470eed4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 1}
+  - name: TornadoStatic_96x96_Frame_85
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 981d7689dc3874542a70d898f108dee3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 142}
+  - name: TornadoStatic_96x96_Frame_86
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 3484709310e5df9408735a36bc910bf4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 283}
+  - name: TornadoStatic_96x96_Frame_87
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 427
+      width: 133
+      height: 133
+    spriteID: d63487c6827e4d947ad89f529f0f2ab4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 424}
+  - name: TornadoStatic_96x96_Frame_88
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 8771b2c81f54c444d9a67e324ac535ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 565}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -918770224
+    name: TornadoStatic_96x96
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: TornadoStatic_96x96_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 262460616ae0a134388a225c38e1e334
+    - name: TornadoStatic_96x96_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: b82da8367b6625b4d858e4bafb08464f
+    - name: TornadoStatic_96x96_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 5f4148791efc08545b92c6ea5ce63515
+    - name: TornadoStatic_96x96_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: dbd57b3097827c540b3509112bd5d222
+    - name: TornadoStatic_96x96_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: aa3f223ad52661541a33b8cc27ac5899
+    - name: TornadoStatic_96x96_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 4ec6efc1b2b5a634cb1707b3bd7418d9
+    - name: TornadoStatic_96x96_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 28586a7b5e442c249ab0cadad75bfd7f
+    - name: TornadoStatic_96x96_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e2562863296608243be769c0bab39a9b
+    - name: TornadoStatic_96x96_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6df65af55083c6e4daadf7efdcc55259
+    - name: TornadoStatic_96x96_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 8c4a9ef192748704fac16d3139487701
+    - name: TornadoStatic_96x96_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e95681076e3b7ae419a7fa3b0aa5293e
+    - name: TornadoStatic_96x96_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 37bf065d6c5e57d45a8c6f04c388584b
+    - name: TornadoStatic_96x96_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: ef1f759e9896783438429042bde48c66
+    - name: TornadoStatic_96x96_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: ae40c86e524b5ba449b0e95612276e38
+    - name: TornadoStatic_96x96_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e814fb08d32176544be504a6d1ecd164
+    - name: TornadoStatic_96x96_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 09bedbc37d594f64ab7da06cb4919070
+    - name: TornadoStatic_96x96_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 2602326f1a7b4204d975418a54c9d790
+    - name: TornadoStatic_96x96_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 2bcd7f22881f2804ebf727047f94c135
+    - name: TornadoStatic_96x96_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 56c05300901ed4743a74feadeaac45c6
+    - name: TornadoStatic_96x96_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 4f6d4a389df11d149bf0cda5ca5aa1fd
+    - name: TornadoStatic_96x96_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 39b4f291107c8d040be21c2d813d830c
+    - name: TornadoStatic_96x96_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 3d4063779d3720243abb014788a44d5f
+    - name: TornadoStatic_96x96_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: f240cfb91fa62f049bad28d20d682719
+    - name: TornadoStatic_96x96_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: b11046b91f90e2c42ad5fd0d03917edf
+    - name: TornadoStatic_96x96_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 504a14bd496d1a84c8009c68aa1e221e
+    - name: TornadoStatic_96x96_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 9e5822785d2b4c24baa6ee23a2588af7
+    - name: TornadoStatic_96x96_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6c381b9a6016a874a9fa9fb8bca099b8
+    - name: TornadoStatic_96x96_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: b8fe0e4697bc87144b1e4b730b5d022d
+    - name: TornadoStatic_96x96_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e19adf67f12a2ec4b947ab793725d8dc
+    - name: TornadoStatic_96x96_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 29d6463f656a75247b1a6af7b23b5cf5
+    - name: TornadoStatic_96x96_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: d4917358f8751c340b14e456ca5ecc85
+    - name: TornadoStatic_96x96_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 1e7d7227ed6f3ee4bbcf5f9f0d7bafad
+    - name: TornadoStatic_96x96_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 085140797366ce648916baa8bbd9f28b
+    - name: TornadoStatic_96x96_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e2471968110a02e49999a4b09f3d661d
+    - name: TornadoStatic_96x96_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 3c6f3891e4a045c429565985f5026a99
+    - name: TornadoStatic_96x96_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: f6285dcfb882b6b4b8d3d90dab6795bf
+    - name: TornadoStatic_96x96_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: abe3b3978e62f9c49a9a30356d4fab03
+    - name: TornadoStatic_96x96_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 0f2396e6f3d5cea4cbf55dbb409b7dab
+    - name: TornadoStatic_96x96_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 9c4c6bd96a3a26e43b1d7043a766b8eb
+    - name: TornadoStatic_96x96_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 53229ac754e9e314987f244cc597c733
+    - name: TornadoStatic_96x96_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: c483c9eedcdbb1849aff62c65d7d89d0
+    - name: TornadoStatic_96x96_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 29f7251aa88d102479d0805030d32ca2
+    - name: TornadoStatic_96x96_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 64306d2fb58c26e46a447f7aeed42f49
+    - name: TornadoStatic_96x96_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: fbc0aeb14cefe9f4d917f13d0160c28d
+    - name: TornadoStatic_96x96_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6cba4889639346f49803e6c1ba18d724
+    - name: TornadoStatic_96x96_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: f9e9f35c0ba9dd24291b0f6a23e3384a
+    - name: TornadoStatic_96x96_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 72e5a785d318dc34182203daa2e601f2
+    - name: TornadoStatic_96x96_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6f11e304dad932a44a513fdf7a717637
+    - name: TornadoStatic_96x96_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e6ca1bea8d5a9d34ba5b07c8c9fbf5ad
+    - name: TornadoStatic_96x96_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6be6dd699f312d740a164374bff94f11
+    - name: TornadoStatic_96x96_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 328a50fdaa52a33498b377a5fd1157c1
+    - name: TornadoStatic_96x96_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 90ae0b71d615855449d3dffe9e9e0038
+    - name: TornadoStatic_96x96_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 3ffc456acd3420146a196e972763a740
+    - name: TornadoStatic_96x96_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: fd636032048885e41905d7717d92dcd5
+    - name: TornadoStatic_96x96_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: ea3f48e5b0b11764caf407a8c1332db4
+    - name: TornadoStatic_96x96_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 3851380db2d21b64aabb18e422b75e8e
+    - name: TornadoStatic_96x96_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 36f5fbdae85202c4dbcb26599fd91217
+    - name: TornadoStatic_96x96_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 460add14b5055ce42ab317c075ee55a7
+    - name: TornadoStatic_96x96_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: c77387cf09a1c3540a1ba8d18455c593
+    - name: TornadoStatic_96x96_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: fa4a07cbe23392940996c51f486d2fa4
+    - name: TornadoStatic_96x96_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 1ceb0fa00857d2949b31edde92f80779
+    - name: TornadoStatic_96x96_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: bad819776a35e4c42824a0c630598b29
+    - name: TornadoStatic_96x96_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 566edbf211024ea47988ae611e879c5f
+    - name: TornadoStatic_96x96_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 72d9fe71b7ed2a34491f582fd3a3e44a
+    - name: TornadoStatic_96x96_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: bb8beefecb585e940917df3d496eb1b3
+    - name: TornadoStatic_96x96_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 621f22e06962c67498cfd90a5b49b6de
+    - name: TornadoStatic_96x96_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: d86094baab3a5b9409dd3d3393c5c532
+    - name: TornadoStatic_96x96_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: db18a591477478b4282d7228b7437164
+    - name: TornadoStatic_96x96_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 0bf9398d5f8bbd248bcf4ada41522b68
+    - name: TornadoStatic_96x96_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: d84383bcc30e7624f8f7adc5446d74c8
+    - name: TornadoStatic_96x96_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 906947166776e2644b43e17aaf09b8f1
+    - name: TornadoStatic_96x96_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 5722fc7fc68bd674baaef07717158d96
+    - name: TornadoStatic_96x96_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: e765ac5666be0f24c994153411d287d1
+    - name: TornadoStatic_96x96_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 0b76d4aa31037ec4ab9f6aecbf7cc0f3
+    - name: TornadoStatic_96x96_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 066f9312688d3784baa751adc40f3c37
+    - name: TornadoStatic_96x96_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: ee81dfa5c6779d64f87f404f918c16a9
+    - name: TornadoStatic_96x96_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 608220f646a2fd14eaee9dcf8032919f
+    - name: TornadoStatic_96x96_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 42616f2191c158e45bc2c9828025ca24
+    - name: TornadoStatic_96x96_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 56bf12569233ae049a1aaa60ef11fefa
+    - name: TornadoStatic_96x96_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6f800866d06ebb94491aed71f66496bc
+    - name: TornadoStatic_96x96_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 1af4cade013308d47bf8dad6cb538d14
+    - name: TornadoStatic_96x96_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 6a83ab7ad5929ed49908e37b4a102f36
+    - name: TornadoStatic_96x96_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: be46bd2989710814eb385563ef90e7e5
+    - name: TornadoStatic_96x96_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: fd608fd4a4f2d5149b7cf599312414ca
+    - name: TornadoStatic_96x96_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 9bf1c13104c79cd4182446cf470eed4f
+    - name: TornadoStatic_96x96_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 981d7689dc3874542a70d898f108dee3
+    - name: TornadoStatic_96x96_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 3484709310e5df9408735a36bc910bf4
+    - name: TornadoStatic_96x96_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: d63487c6827e4d947ad89f529f0f2ab4
+    - name: TornadoStatic_96x96_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: -18
+        y: -21
+        width: 141
+        height: 136
+      spriteId: 8771b2c81f54c444d9a67e324ac535ca
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}

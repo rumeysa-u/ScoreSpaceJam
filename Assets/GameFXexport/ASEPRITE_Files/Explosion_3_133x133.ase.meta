@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: 7b67d218d9b143a4f815b951bba1a415
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Explosion_3_133x133_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 133
+      height: 133
+    spriteID: b221ab91042149548991a1f0867dc8a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: -4}
+  - name: Explosion_3_133x133_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 133
+      height: 133
+    spriteID: c61a9aadca1218543bdaddef0eddef91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 137}
+  - name: Explosion_3_133x133_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 44f4d604dd57386479b1c989c3ca5497
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 278}
+  - name: Explosion_3_133x133_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 427
+      width: 133
+      height: 133
+    spriteID: ded96d06707fec04981b196ebcf0a142
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 419}
+  - name: Explosion_3_133x133_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 568
+      width: 133
+      height: 133
+    spriteID: a94ec3b4f0469cf4c976ef3147220d28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 560}
+  - name: Explosion_3_133x133_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 709
+      width: 133
+      height: 133
+    spriteID: b48e58abf735e57408712009a35cf14a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 701}
+  - name: Explosion_3_133x133_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 850
+      width: 133
+      height: 133
+    spriteID: ab153166dbe62d54c9d597f7455102ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 842}
+  - name: Explosion_3_133x133_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 78866659196eb8c4d8601575d1c952c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 983}
+  - name: Explosion_3_133x133_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: e45eae6a2530de04c9b89de0769f23d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1124}
+  - name: Explosion_3_133x133_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 1bb3d4300446c894e94283f4ed057a01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1265}
+  - name: Explosion_3_133x133_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: c03d59687ed19bf45a0d18b13bab7b8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1406}
+  - name: Explosion_3_133x133_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: f678ddca28b0447439210071f57dc3b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1547}
+  - name: Explosion_3_133x133_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: ddd99a7e312d6bd4d81a5a8ec4ad21a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1688}
+  - name: Explosion_3_133x133_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: 9b8a4cde73282b24b8a31da23c3317cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1829}
+  - name: Explosion_3_133x133_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 16054c60096c5b54cbc26f635d06f155
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: -4}
+  - name: Explosion_3_133x133_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 145
+      width: 133
+      height: 133
+    spriteID: f0774c3d9580eaa469039436d6fe7ed6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 137}
+  - name: Explosion_3_133x133_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 864d6d277f99e7143a18a48040de44a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 278}
+  - name: Explosion_3_133x133_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 6b022ef5d08e5a74a90a9e4a23671efe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 419}
+  - name: Explosion_3_133x133_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 3ad4a98d44b0d1d4b8ae7d81cb6a0f57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 560}
+  - name: Explosion_3_133x133_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 2aa9fd9f86dabd4409162c6fac19bd41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 701}
+  - name: Explosion_3_133x133_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 850
+      width: 133
+      height: 133
+    spriteID: c06c7c434483511419345b31e3616889
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 842}
+  - name: Explosion_3_133x133_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 1c49efc7ad11559458294d7df7d5360a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 983}
+  - name: Explosion_3_133x133_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: 23a50d3e1db8bd24fa827e9f10639574
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1124}
+  - name: Explosion_3_133x133_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 564ceafe2f21f27448389d1146644476
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1265}
+  - name: Explosion_3_133x133_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: 0bf67aea1c5ca964da48c7067b6e2cb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1406}
+  - name: Explosion_3_133x133_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: 9a4875a499923ec42889eb57f221705c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1547}
+  - name: Explosion_3_133x133_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: 0f93a8e61872fbd49b1d0caa37188233
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1688}
+  - name: Explosion_3_133x133_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: e821bbe8ae368c943983032113df2266
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 1829}
+  - name: Explosion_3_133x133_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 5f828da338b7a0d47bcce156b8288288
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: -4}
+  - name: Explosion_3_133x133_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 145
+      width: 133
+      height: 133
+    spriteID: f4dbc81962c8ee14db20bf9fdf52ab80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 137}
+  - name: Explosion_3_133x133_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 608c92e4380339f4d87b2288be2de0b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 278}
+  - name: Explosion_3_133x133_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 080897ab359ccee4d980752a28ce57dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 419}
+  - name: Explosion_3_133x133_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 69512f7679432474bb7362f88d57253a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 560}
+  - name: Explosion_3_133x133_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 709
+      width: 133
+      height: 133
+    spriteID: ad1bb1683c0a96a4986a6a71cf4a6583
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 701}
+  - name: Explosion_3_133x133_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 884c656f3f31cc442bbb30a09125deb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 842}
+  - name: Explosion_3_133x133_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 028db4822639d424783c5a168eeed7a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 983}
+  - name: Explosion_3_133x133_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: 5280db748ec87694796c47a7819e07b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1124}
+  - name: Explosion_3_133x133_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: 84b4fdc4eae24564ba23ac0a06134a19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1265}
+  - name: Explosion_3_133x133_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: bef1cfe2a8ce18d4684dfaac0ccb1521
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1406}
+  - name: Explosion_3_133x133_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: c38103b0942af314fa3c71acf23f4585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1547}
+  - name: Explosion_3_133x133_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: 1a346b0a41b4d1b4d8da3c387146c353
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1688}
+  - name: Explosion_3_133x133_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: 89d99131e6312604ab5a6a6bf9860bf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 1829}
+  - name: Explosion_3_133x133_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 4
+      width: 133
+      height: 133
+    spriteID: f0417c266d6f76e42940766c2c26e4ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: -4}
+  - name: Explosion_3_133x133_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 2a1e98af676424849831f1e863d225cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 137}
+  - name: Explosion_3_133x133_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 4100020a4af293c4aaaffc5ae7c96812
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 278}
+  - name: Explosion_3_133x133_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 3114550d54f206b4cba88cc0be600c1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 419}
+  - name: Explosion_3_133x133_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 568
+      width: 133
+      height: 133
+    spriteID: b94d6b6430462c244b82f674f0fa8a5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 560}
+  - name: Explosion_3_133x133_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 709
+      width: 133
+      height: 133
+    spriteID: ed04d8d4ad284464db02fe6c858049c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 701}
+  - name: Explosion_3_133x133_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 1d634265690a4ef47ac78dcf8aef64e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 842}
+  - name: Explosion_3_133x133_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 991
+      width: 133
+      height: 133
+    spriteID: 28dca9351fe2cdd4b92cb117b5b008e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 983}
+  - name: Explosion_3_133x133_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1132
+      width: 133
+      height: 133
+    spriteID: f4eaac5926152104699f607581a93b35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1124}
+  - name: Explosion_3_133x133_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1273
+      width: 133
+      height: 133
+    spriteID: ff42d339848793842b3b3e181754920d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1265}
+  - name: Explosion_3_133x133_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1414
+      width: 133
+      height: 133
+    spriteID: b30580ca7a5347942b996f0008fee592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1406}
+  - name: Explosion_3_133x133_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1555
+      width: 133
+      height: 133
+    spriteID: 4ea3da7e6bfcaa047900d8bafd3e3595
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1547}
+  - name: Explosion_3_133x133_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1696
+      width: 133
+      height: 133
+    spriteID: 6a5abe8c390d43a4abd32f2f3bb4b01b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1688}
+  - name: Explosion_3_133x133_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 1837
+      width: 133
+      height: 133
+    spriteID: 11eaa784cbb157044b5170673c0cb642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 1829}
+  - name: Explosion_3_133x133_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 4
+      width: 133
+      height: 133
+    spriteID: c3849008886923f4d98d445e10a6b1bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: -4}
+  - name: Explosion_3_133x133_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 6dc8d430163186c42aac0822359d7c6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 137}
+  - name: Explosion_3_133x133_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 286
+      width: 133
+      height: 133
+    spriteID: bd57ca38cfcbfa14e9cf0ef2dde66138
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 278}
+  - name: Explosion_3_133x133_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 427
+      width: 133
+      height: 133
+    spriteID: bd7edeb0cf7c7924cae359542241cd51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 419}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -423178204
+    name: Explosion_3_133x133
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Explosion_3_133x133_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: b221ab91042149548991a1f0867dc8a3
+    - name: Explosion_3_133x133_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: c61a9aadca1218543bdaddef0eddef91
+    - name: Explosion_3_133x133_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 44f4d604dd57386479b1c989c3ca5497
+    - name: Explosion_3_133x133_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: ded96d06707fec04981b196ebcf0a142
+    - name: Explosion_3_133x133_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: a94ec3b4f0469cf4c976ef3147220d28
+    - name: Explosion_3_133x133_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: b48e58abf735e57408712009a35cf14a
+    - name: Explosion_3_133x133_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: ab153166dbe62d54c9d597f7455102ac
+    - name: Explosion_3_133x133_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 78866659196eb8c4d8601575d1c952c2
+    - name: Explosion_3_133x133_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: e45eae6a2530de04c9b89de0769f23d3
+    - name: Explosion_3_133x133_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 1bb3d4300446c894e94283f4ed057a01
+    - name: Explosion_3_133x133_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: c03d59687ed19bf45a0d18b13bab7b8b
+    - name: Explosion_3_133x133_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: f678ddca28b0447439210071f57dc3b1
+    - name: Explosion_3_133x133_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: ddd99a7e312d6bd4d81a5a8ec4ad21a5
+    - name: Explosion_3_133x133_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 9b8a4cde73282b24b8a31da23c3317cc
+    - name: Explosion_3_133x133_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 16054c60096c5b54cbc26f635d06f155
+    - name: Explosion_3_133x133_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: f0774c3d9580eaa469039436d6fe7ed6
+    - name: Explosion_3_133x133_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 864d6d277f99e7143a18a48040de44a4
+    - name: Explosion_3_133x133_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 6b022ef5d08e5a74a90a9e4a23671efe
+    - name: Explosion_3_133x133_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 3ad4a98d44b0d1d4b8ae7d81cb6a0f57
+    - name: Explosion_3_133x133_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 2aa9fd9f86dabd4409162c6fac19bd41
+    - name: Explosion_3_133x133_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: c06c7c434483511419345b31e3616889
+    - name: Explosion_3_133x133_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 1c49efc7ad11559458294d7df7d5360a
+    - name: Explosion_3_133x133_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 23a50d3e1db8bd24fa827e9f10639574
+    - name: Explosion_3_133x133_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 564ceafe2f21f27448389d1146644476
+    - name: Explosion_3_133x133_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 0bf67aea1c5ca964da48c7067b6e2cb1
+    - name: Explosion_3_133x133_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 9a4875a499923ec42889eb57f221705c
+    - name: Explosion_3_133x133_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 0f93a8e61872fbd49b1d0caa37188233
+    - name: Explosion_3_133x133_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: e821bbe8ae368c943983032113df2266
+    - name: Explosion_3_133x133_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 5f828da338b7a0d47bcce156b8288288
+    - name: Explosion_3_133x133_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: f4dbc81962c8ee14db20bf9fdf52ab80
+    - name: Explosion_3_133x133_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 608c92e4380339f4d87b2288be2de0b5
+    - name: Explosion_3_133x133_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 080897ab359ccee4d980752a28ce57dc
+    - name: Explosion_3_133x133_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 69512f7679432474bb7362f88d57253a
+    - name: Explosion_3_133x133_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: ad1bb1683c0a96a4986a6a71cf4a6583
+    - name: Explosion_3_133x133_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 884c656f3f31cc442bbb30a09125deb8
+    - name: Explosion_3_133x133_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 028db4822639d424783c5a168eeed7a4
+    - name: Explosion_3_133x133_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 5280db748ec87694796c47a7819e07b6
+    - name: Explosion_3_133x133_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 84b4fdc4eae24564ba23ac0a06134a19
+    - name: Explosion_3_133x133_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: bef1cfe2a8ce18d4684dfaac0ccb1521
+    - name: Explosion_3_133x133_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: c38103b0942af314fa3c71acf23f4585
+    - name: Explosion_3_133x133_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 1a346b0a41b4d1b4d8da3c387146c353
+    - name: Explosion_3_133x133_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 89d99131e6312604ab5a6a6bf9860bf3
+    - name: Explosion_3_133x133_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: f0417c266d6f76e42940766c2c26e4ba
+    - name: Explosion_3_133x133_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 2a1e98af676424849831f1e863d225cb
+    - name: Explosion_3_133x133_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 4100020a4af293c4aaaffc5ae7c96812
+    - name: Explosion_3_133x133_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 3114550d54f206b4cba88cc0be600c1c
+    - name: Explosion_3_133x133_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: b94d6b6430462c244b82f674f0fa8a5e
+    - name: Explosion_3_133x133_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: ed04d8d4ad284464db02fe6c858049c2
+    - name: Explosion_3_133x133_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 1d634265690a4ef47ac78dcf8aef64e3
+    - name: Explosion_3_133x133_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 28dca9351fe2cdd4b92cb117b5b008e0
+    - name: Explosion_3_133x133_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: f4eaac5926152104699f607581a93b35
+    - name: Explosion_3_133x133_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: ff42d339848793842b3b3e181754920d
+    - name: Explosion_3_133x133_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: b30580ca7a5347942b996f0008fee592
+    - name: Explosion_3_133x133_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 4ea3da7e6bfcaa047900d8bafd3e3595
+    - name: Explosion_3_133x133_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 6a5abe8c390d43a4abd32f2f3bb4b01b
+    - name: Explosion_3_133x133_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 11eaa784cbb157044b5170673c0cb642
+    - name: Explosion_3_133x133_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: c3849008886923f4d98d445e10a6b1bd
+    - name: Explosion_3_133x133_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: 6dc8d430163186c42aac0822359d7c6d
+    - name: Explosion_3_133x133_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: bd57ca38cfcbfa14e9cf0ef2dde66138
+    - name: Explosion_3_133x133_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: -8
+        width: 135
+        height: 141
+      spriteId: bd7edeb0cf7c7924cae359542241cd51
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 133, y: 133}
