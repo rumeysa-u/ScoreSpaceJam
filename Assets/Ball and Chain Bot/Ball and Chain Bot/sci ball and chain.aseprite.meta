@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 63c50ffd0565ae740aead11bab641129
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: sci ball and chain_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 9a306f1b5523ee1409c330f123d83e79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: sci ball and chain_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 192
+      height: 192
+    spriteID: f8e2ef7133953964db3f75a62882ada4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 204}
+  - name: sci ball and chain_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 2fe14d51d00d48141870c3ac1455375f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 404}
+  - name: sci ball and chain_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 2efd14099a718c64195d2f6cef6b031f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 604}
+  - name: sci ball and chain_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 804
+      width: 192
+      height: 192
+    spriteID: 1665cf9dc095b2048a54007e2b575afd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 804}
+  - name: sci ball and chain_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 5a7ff6f2d7398544694142ec1b531ecf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1004}
+  - name: sci ball and chain_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 10c56609f558f6048b640c810f488cb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1204}
+  - name: sci ball and chain_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: f0a9b2eef396f8e4e92d9c96e920609e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1404}
+  - name: sci ball and chain_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 8355d6857fd150c48a27f3b37bd7cc27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1604}
+  - name: sci ball and chain_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 6e100875e9b8efd48940f4b7fc7977ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1804}
+  - name: sci ball and chain_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 192
+      height: 192
+    spriteID: f68a66703894e644f8ca97c03325d73a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 4}
+  - name: sci ball and chain_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 828428cc780c3994b96030ff5cd019ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 204}
+  - name: sci ball and chain_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 8b201cfc2c5fece4b921f83e27dbd3c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 404}
+  - name: sci ball and chain_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 604
+      width: 192
+      height: 192
+    spriteID: ee49fc1454ef6a0459096ee067efe24f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 604}
+  - name: sci ball and chain_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 804
+      width: 192
+      height: 192
+    spriteID: c62f6076181beb242919655e2ffc1fb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 804}
+  - name: sci ball and chain_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 999fa057d32900c4f8335f0f94c2212a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1004}
+  - name: sci ball and chain_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 76344083f9d53ff4aa9a0d84f111a62a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1204}
+  - name: sci ball and chain_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 4819f64158bc0594b997db9a4e32f5a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1404}
+  - name: sci ball and chain_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: be1caa54dbac0ce449457faa7499b2b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1604}
+  - name: sci ball and chain_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 4dab191e6609b2e409ac05401ec17c6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1804}
+  - name: sci ball and chain_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 5a6c1af65c5d77641bb3a8a9631cdb93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 4}
+  - name: sci ball and chain_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 15a4273f2759f4943bd93225450ac23b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 204}
+  - name: sci ball and chain_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 404
+      width: 192
+      height: 192
+    spriteID: a025bc2256d7a9c4ca45d7476fa05e97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 404}
+  - name: sci ball and chain_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 5140c8670a1b52f4081a6f57532fe424
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 604}
+  - name: sci ball and chain_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 804
+      width: 192
+      height: 192
+    spriteID: 31751bbd0043f8941b0f97df514e9d61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 804}
+  - name: sci ball and chain_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: e79aef0487650154991b0fc9abd0cfb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1004}
+  - name: sci ball and chain_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 0d750a051ddd7294fa3b7cdb4a94152c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1204}
+  - name: sci ball and chain_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 2b00228e43fa71045b8dd08bd99aa90f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1404}
+  - name: sci ball and chain_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: b0ebc81f4b0211d438c735c243567025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1604}
+  - name: sci ball and chain_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 4f397c7a962e607468014127c70772fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1804}
+  - name: sci ball and chain_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 284f4e39b8a05f047b2b958df068f161
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 4}
+  - name: sci ball and chain_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 85465c8aabd58dc448d78e8aebadaf6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 204}
+  - name: sci ball and chain_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 05e72baf2b94daf44a04c1efd0795055
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 404}
+  - name: sci ball and chain_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 0490c9e1db176084ab71b882d02cfaea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 604}
+  - name: sci ball and chain_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 804
+      width: 192
+      height: 192
+    spriteID: ec1f31e5a9b6b7441a413bd7cc564bf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 804}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1353637304
+    name: sci ball and chain
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: sci ball and chain_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 9a306f1b5523ee1409c330f123d83e79
+    - name: sci ball and chain_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: f8e2ef7133953964db3f75a62882ada4
+    - name: sci ball and chain_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 2fe14d51d00d48141870c3ac1455375f
+    - name: sci ball and chain_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 2efd14099a718c64195d2f6cef6b031f
+    - name: sci ball and chain_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 1665cf9dc095b2048a54007e2b575afd
+    - name: sci ball and chain_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 5a7ff6f2d7398544694142ec1b531ecf
+    - name: sci ball and chain_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 10c56609f558f6048b640c810f488cb4
+    - name: sci ball and chain_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: f0a9b2eef396f8e4e92d9c96e920609e
+    - name: sci ball and chain_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 8355d6857fd150c48a27f3b37bd7cc27
+    - name: sci ball and chain_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 6e100875e9b8efd48940f4b7fc7977ef
+    - name: sci ball and chain_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: f68a66703894e644f8ca97c03325d73a
+    - name: sci ball and chain_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 828428cc780c3994b96030ff5cd019ab
+    - name: sci ball and chain_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 8b201cfc2c5fece4b921f83e27dbd3c7
+    - name: sci ball and chain_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: ee49fc1454ef6a0459096ee067efe24f
+    - name: sci ball and chain_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: c62f6076181beb242919655e2ffc1fb8
+    - name: sci ball and chain_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 999fa057d32900c4f8335f0f94c2212a
+    - name: sci ball and chain_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 76344083f9d53ff4aa9a0d84f111a62a
+    - name: sci ball and chain_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 4819f64158bc0594b997db9a4e32f5a4
+    - name: sci ball and chain_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: be1caa54dbac0ce449457faa7499b2b2
+    - name: sci ball and chain_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 4dab191e6609b2e409ac05401ec17c6b
+    - name: sci ball and chain_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 5a6c1af65c5d77641bb3a8a9631cdb93
+    - name: sci ball and chain_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 15a4273f2759f4943bd93225450ac23b
+    - name: sci ball and chain_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: a025bc2256d7a9c4ca45d7476fa05e97
+    - name: sci ball and chain_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 5140c8670a1b52f4081a6f57532fe424
+    - name: sci ball and chain_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 31751bbd0043f8941b0f97df514e9d61
+    - name: sci ball and chain_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: e79aef0487650154991b0fc9abd0cfb0
+    - name: sci ball and chain_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 0d750a051ddd7294fa3b7cdb4a94152c
+    - name: sci ball and chain_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 2b00228e43fa71045b8dd08bd99aa90f
+    - name: sci ball and chain_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: b0ebc81f4b0211d438c735c243567025
+    - name: sci ball and chain_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 4f397c7a962e607468014127c70772fb
+    - name: sci ball and chain_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 284f4e39b8a05f047b2b958df068f161
+    - name: sci ball and chain_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 85465c8aabd58dc448d78e8aebadaf6c
+    - name: sci ball and chain_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 05e72baf2b94daf44a04c1efd0795055
+    - name: sci ball and chain_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 0490c9e1db176084ab71b882d02cfaea
+    - name: sci ball and chain_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: ec1f31e5a9b6b7441a413bd7cc564bf8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}
